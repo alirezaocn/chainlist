@@ -6,7 +6,7 @@ Submit a PR that adds a new file to the [constants/additionalChainRegistry folde
 ```
 {
   "name": "Ethereum Mainnet",
-  "chain": "ETH",
+  "chain": "ETH", mm
   "rpc": [
     "https://eth.llamarpc.com",
   ],
